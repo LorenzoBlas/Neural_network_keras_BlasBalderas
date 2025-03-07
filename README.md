@@ -60,10 +60,4 @@ python main.py
 ### 4. Project Execution Errors
 - **CUDA warning messages:**
   - These messages usually appear if you don't have an NVIDIA GPU configured. You can ignore them if you're not using the GPU.
-
----
-
-I hope this guide is helpful. If you have any questions or need further assistance, feel free to ask.
-
----
-Answer from Perplexity: pplx.ai/share
+from Perplexity: pplx.ai/share
